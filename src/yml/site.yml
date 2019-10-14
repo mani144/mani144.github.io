@@ -4,6 +4,6 @@ description: This blog will mainly talk about Data Science and Godot.
 tags:
   - godot
   - development
-email: a.albar144@gmail.com
-disqus_username: disqus_username
 show_hero: true
+email: a.albar144@gmail.com
+disqus_username: ''
