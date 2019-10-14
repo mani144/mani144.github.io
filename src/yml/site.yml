@@ -1,10 +1,11 @@
 name: mani144
 title: Mani144 | A blog for developers
-description: This blog will mainly talk about Data Science and Godot.
+description: 'This blog will mainly talk about Data Science, Pixel Art and Godot.'
 tags:
   - godot
   - development
   - pixel art
+  - godot engine
 show_hero: true
 email: a.albar144@gmail.com
 disqus_username: ''
