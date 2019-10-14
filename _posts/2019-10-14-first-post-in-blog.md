@@ -15,7 +15,7 @@ paginate: true
 ---
 ## Greetings,
 
-This blog will contain all my development activities, I will mainly talk about Godot engine, Data Science and all its related subjects.
+This blog will contain all my development activities, I will mainly talk about Godot engine,Pixel Art, Data Science and all its related subjects.
 It should be interesting. the more we learn the more power we gain so as i wise man once said : 
 
 > with great power comes great responsibility.
