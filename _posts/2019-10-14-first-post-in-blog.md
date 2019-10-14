@@ -1,29 +1,23 @@
 ---
-date: 2010-10-14 12:26:40
+date: '2019-10-14 15:26:40'
 layout: post
 title: First Post on My New Blog
 subtitle: A Sample Blog about development
 description: blog description
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: godot
+image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
+category: '{{slug}}'
 tags:
   - godot
   - development
-author: Abdulrahman Albar
+author: Mani
+paginate: true
 ---
-
 ## Greetings,
 
-This blog will contain all my developement activities, I will mainly talk about Godot engine, Data Scince and all its related subjects.
-It should be intreseting. the more we learn the more power we gain so as i wise man once said : 
+This blog will contain all my development activities, I will mainly talk about Godot engine, Data Science and all its related subjects.
+It should be interesting. the more we learn the more power we gain so as i wise man once said : 
 
-> with great power comes great responsibility
+> with great power comes great responsibility.
 
-
-
-
-
-
-
-
+Lets hope it will be an interesting journey :) . 
