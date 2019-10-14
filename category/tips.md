@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Tips
+title: Pixel Art
 slug: tips
-description: A category for tips.
+description: A category for pixel art.
 ---
+
