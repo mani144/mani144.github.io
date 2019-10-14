@@ -1,12 +1,9 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: mani144
+title: Mani144 | A blog for developers
+description: This blog will mainly talk about Data Science and Godot.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - godot
+  - development
+email: a.albar144@gmail.com
 disqus_username: disqus_username
 show_hero: true
