@@ -4,8 +4,7 @@ layout: post
 title: First Post on My New Blog
 subtitle: A Sample Blog about development
 description: blog description
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
+image: /assets/img/uploads/stocksnap_u7f70ktft5-800x400.jpg
 category: '{{slug}}'
 tags:
   - godot
